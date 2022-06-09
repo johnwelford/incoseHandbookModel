@@ -31,3 +31,11 @@ The model is available to be presented using whatever tools you wish to use, sim
 
 ## Examples
 TO BE ADDED...
+
+## To-do
+- [x] Setup project
+- [x] Document ontology
+- [x] Include processes & definitions
+- [x] Include inputs/outputs & definitions
+- [x] Include enablers/controls & definitions
+- [ ] Include activities & definitions
