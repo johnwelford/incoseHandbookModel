@@ -20,8 +20,14 @@ Based on this and other key text in the handbook the following ontology is under
 
 ![Metamodel image](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/johnwelford/incoseHandbookModel/main/ontology.puml)
 
-## Use
+## Model
 The model is entirely captured within the [incoseHandbookEntities.csv]() and [incoseHandbookRelationships.csv]() files.
 Each entity has a [universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), a type (from the ontology), a name, a description, and reference to where in the handbook it is defined (both page and section number).
 The entity identifiers are then referenced in relationships between the entities.
 Each relationship has its own identifier, a type (from the ontology), and the identifers of the entities it comes from and goes to.
+
+## Use
+The model is available to be presented using whatever tools you wish to use, simply by directly referencing the entities and relationships files as a data source.
+
+## Examples
+TO BE ADDED...
