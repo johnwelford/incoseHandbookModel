@@ -18,7 +18,7 @@ Although it is not explicitly defined anywhere in the handbook, an ontology of t
 In particular Chapter 1 provides some key definitions and discussion in the form of [input-process-output (IPO) diagrams](https://en.wikipedia.org/wiki/IPO_model).
 Based on this and other key text in the handbook the following ontology is understood to be used:
 
-![Metamodel image](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/johnwelford/standardsModel/main/metamodel.puml)
+![Metamodel image](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/johnwelford/incoseHandbookModel/main/ontology.puml)
 
 ## Use
 The model is entirely captured within the [incoseHandbookEntities.csv]() and [incoseHandbookRelationships.csv]() files.
