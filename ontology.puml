@@ -1,0 +1,29 @@
+@startuml
+'title Standard modelling metamodel
+
+!startsub STYLE
+class test
+!endsub
+
+'scale 1000 width
+'skinparam packageStyle frame
+'skinparam linetype polyline
+'top to bottom direction
+hide empty members
+'hide circle
+'hide stereotype 
+
+' spare colours from the palette... #9EB9F3,#F6CF71,#66C5CC,#B497E7,#D3B484,#B3B3B3
+
+class enabler as "Enabler" << (T,#8BE0A4) >> 
+class control as "Control"<< (C,#C9DB74) >>
+class io as "Input/Output" << (IO,#DCB0F2) >>
+class activity as "Activity" << (A,#87C55F) >>
+class process as "Process" << (P,#FE88B1) >>
+
+process -- io : outputs >
+io -- precess : inputs into >
+process -- activity : has part >
+control -- process : governs >
+process -- enabler : enables <
+@enduml
