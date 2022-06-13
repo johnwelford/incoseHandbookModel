@@ -30,7 +30,7 @@ Each relationship has its own identifier, a type (from the ontology), and the id
 The model is available to be presented using whatever tools you wish to use, simply by directly referencing the entities and relationships files as a data source.
 
 ## Examples
-TO BE ADDED...
+* [An interactive version of the handbook N² diagram](observablehq.com/@johnwelford/incose-handbook-n-diagram)
 
 ## To-do
 - [x] Setup project
@@ -38,5 +38,5 @@ TO BE ADDED...
 - [x] Include processes & definitions
 - [x] Include inputs/outputs & definitions
 - [x] Include enablers/controls & definitions
-- [ ] Fix missing/duplicated/unused inputs/outputs (e.g. 'Procedures')
+- [x] Fix missing/duplicated/unused inputs/outputs (e.g. 'Procedures')
 - [ ] Include activities & definitions
