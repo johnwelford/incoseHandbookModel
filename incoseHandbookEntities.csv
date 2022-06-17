@@ -25,7 +25,7 @@ B1288040-5756-4697-A7E2-AAB492AAB952,Input/Output,Transition report,"An account 
 56BF2D88-CE53-470C-9470-BB7F56E83E46,Input/Output,Transition record,"Permanent, readable form of data, information, or knowledge related to transition",282,Appendix E
 2D1AF59E-7C57-4425-8D9F-E2281E50A3A3,Input/Output,Transition enabling system requirements,Requirements for any systems needed to enable transition of the system of interest,282,Appendix E
 21E65351-1FBE-4416-BF1E-9C5C0BECD2A7,Input/Output,Transition constraints,"Any constraints on the system arising from the transition strategy including cost, schedule, and technical constraints",282,Appendix E
-A8576F64-422C-45EF-9BB9-14CD1836AADF,Process,Transition,The purpose of the Transition process is to  establish a capability for a system to provide services  specified by stakeholder requirements in the operational  environment.,88,4.1
+A8576F64-422C-45EF-9BB9-14CD1836AADF,Process,Transition,The purpose of the Transition process is to  establish a capability for a system to provide services  specified by stakeholder requirements in the operational  environment.,88,4.10
 DD7A8A63-5AF6-43CF-88CF-27AB311FB69D,Input/Output,Trained operators and maintainers,Trained humans that will operate and maintain the system,282,Appendix E
 59C3A3E4-6D67-43B0-BAEA-7401B4CAB305,Input/Output,TPM needs,"Identification of the TPM, which measure attributes of a system element to determine how well a system or system element is satisfying or expected to satisfy a technical requirement or goal",282,Appendix E
 07BCC7F1-C6A1-4D5C-A4EE-E5747C4D2408,Input/Output,TPM data,Data provided for the identified measurement needs,282,Appendix E
