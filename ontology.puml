@@ -9,13 +9,13 @@ hide empty members
 'hide circle
 'hide stereotype 
 
-' spare colours from the palette... #9EB9F3,#F6CF71,#66C5CC,#B497E7,#D3B484,#B3B3B3
+' spare colours from the palette... #9EB9F3,#F6CF71,#66C5CC,#B497E7,#D3B484,#8BE0A4
 
-class enabler as "Enabler" << (E,#8BE0A4) >> 
+class enabler as "Enabler" << (E,#B3B3B3) >> 
 class control as "Control"<< (C,#C9DB74) >>
 class io as "Input/Output" << (I,#DCB0F2) >>
 class activity as "Activity" << (A,#87C55F) >>
-class process as "Process" << (P,#FE88B1) >>
+class process as "Process" << (P,#FEE3D1) >>
 
 io - process : inputs into >
 process -- io : outputs >
