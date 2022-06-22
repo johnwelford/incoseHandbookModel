@@ -21,7 +21,7 @@ Based on this and other key text in the handbook the following ontology is under
 ![Metamodel image](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/johnwelford/incoseHandbookModel/main/ontology.puml)
 
 ## Model
-The model is entirely captured within the [incoseHandbookEntities.csv]() and [incoseHandbookRelationships.csv]() files.
+The model is entirely captured within the [incoseHandbookEntities.csv](https://github.com/johnwelford/incoseHandbookModel/blob/main/incoseHandbookEntities.csv) and [incoseHandbookRelationships.csv](https://github.com/johnwelford/incoseHandbookModel/blob/main/incoseHandbookRelationships.csv) files.
 Each entity has a [universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), a type (from the ontology), a name, a description, and reference to where in the handbook it is defined (both page and section number).
 The entity identifiers are then referenced in relationships between the entities.
 Each relationship has its own identifier, a type (from the ontology), and the identifers of the entities it comes from and goes to.
@@ -30,7 +30,7 @@ Each relationship has its own identifier, a type (from the ontology), and the id
 The model is available to be presented using whatever tools you wish to use, simply by directly referencing the entities and relationships files as a data source.
 
 ## Examples
-* [An interactive version of the handbook N² diagram](observablehq.com/@johnwelford/incose-handbook-n-diagram)
+* [An interactive version of the handbook N² diagram](https://observablehq.com/@johnwelford/incose-handbook-n-diagram)
 
 ## To-do
 - [x] Setup project
