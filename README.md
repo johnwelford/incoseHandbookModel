@@ -39,4 +39,6 @@ The model is available to be presented using whatever tools you wish to use, sim
 - [x] Include inputs/outputs & definitions
 - [x] Include enablers/controls & definitions
 - [x] Fix missing/duplicated/unused inputs/outputs (e.g. 'Procedures')
-- [ ] Include activities & definitions
+- [x] Include activities & definitions
+- [ ] Tidy up activity descriptions
+- [ ] Review activity links, based on handbook text, to determine parallel activities and similar
