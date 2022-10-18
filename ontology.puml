@@ -22,4 +22,5 @@ process -- io : outputs >
 process - activity : has part >
 control -- process : governs >
 process -- enabler : enables <
+activity - activity : followed by >
 @enduml
